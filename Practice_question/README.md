@@ -64,8 +64,7 @@ Grid, legend, and figure size customization
 
 Clone the repository:
 
-git clone   : https://github.com/Sanya-Katiyar-Eng/W3schools_problem-s_solution
-
+git clone   : https://github.com/Sanya-Katiyar-Eng/ML_Basics
 
 Open the Jupyter Notebook:
 
